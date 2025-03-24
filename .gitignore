@@ -1,0 +1,21 @@
+# Ignore user-specific editor settings
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency and build files (if applicable)
+node_modules/
+dist/
+build/
+
+# Ignore local environment files (if used)
+.env
+config.json
+
+# Ignore temporary and log files
+*.log
+*.tmp
+*.cache
